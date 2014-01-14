@@ -12,7 +12,8 @@ public class Test {
 	}
 	
 	public void setTest( int etTall){
-		
+		// Set test number
+		age = etTall;
 	}
 
 }
